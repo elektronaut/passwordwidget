@@ -1,0 +1,68 @@
+body {
+}
+
+#Front {
+	background: url(Default.png) no-repeat;
+	min-width: 328px;
+	min-height: 41px;
+	position: absolute;
+}
+
+#Front #Password {
+	color: #eee;
+	text-shadow: #000 2px 0px 2px;
+	font-family: verdana;
+	font-size: 9px;
+	top: 11px;
+	left: 80px;
+	width: 170px;
+	text-align: center;
+	position: absolute;
+	z-index: 1000;
+}
+
+#Front #MakeButton {
+	width: 31px;
+	height: 17px;
+	background: url(Images/MakeButton.png);
+	position: absolute;
+	top: 8px;
+	left: 255px;
+}
+#Front #MakeButton:hover {
+	background: url(Images/MakeButtonHover.png);
+}
+
+#Front #CopyButton {
+	width: 29px;
+	height: 17px;
+	background: url(Images/CopyButton.png);
+	position: absolute;
+	top: 8px;
+	left: 286px;
+}
+#Front #CopyButton:hover {
+	background: url(Images/CopyButtonHover.png);
+}
+
+#Front #ClipboardNotice {
+	width: 175px;
+	height: 21px;
+	background: url(Images/ClipboardNotice.png);
+	z-index: 2000;
+	position: absolute;
+	top: 6px;
+	left: 77px;
+	opacity: 0.0;
+}
+
+#Front #FieldGlow {
+	width: 181px;
+	height: 23px;
+	background: url(Images/FieldGlow.png);
+	z-index: 800;
+	position: absolute;
+	top: 4px;
+	left: 74px;
+	opacity: 0.0;
+}

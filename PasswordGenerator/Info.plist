@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>no.elektronaut.widget.passwordgenerator</string>
+	<key>CFBundleName</key>
+	<string>Password Generator</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.5</string>
+	<key>CFBundleVersion</key>
+	<string>2</string>
+	<key>DefaultImage</key>
+	<string>Default</string>
+	<key>Width</key>
+	<integer>338</integer>
+	<key>Height</key>
+	<integer>51</integer>
+	<key>CloseBoxInsetX</key>
+	<integer>16</integer>
+	<key>CloseBoxInsetY</key>
+	<integer>16</integer>
+	<key>MainHTML</key>
+	<string>PasswordGenerator.html</string>
+	<key>AllowMultipleInstances</key>
+	<true/>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>AllowSystem</key>
+	<true/>
+</dict>
+</plist>
