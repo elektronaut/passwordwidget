@@ -1,6 +1,6 @@
 = PasswordGenerator
 
-PasswordGenerator is a widget for Mac OSX Spotlight.
+PasswordGenerator is a password generator widget for Mac OSX Spotlight.
 
 == Installation:
 
